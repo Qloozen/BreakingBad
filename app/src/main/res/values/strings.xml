@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Breaking Bad</string>
+    <string name="app_settings">Settings</string>
+    <string name="app_details">Details</string>
+    <string name="property_status">"Status:  "</string>
+    <string name="property_nickname">"Nickname:  "</string>
+    <string name="property_birthday">"Birthday:  "</string>
+    <string name="property_appearance">"Appearance:  "</string>
+    <string name="property_occupation">"Occupation:   "</string>
+    <string name="property_quotes">"Quotes:  "</string>
+    <string name="pref_key">PreferenceKey</string>
+    <string name="pref_title">Filter status</string>
+    <string name="pref_def">All</string>
+    <string name="pref_subtTtitle">Change filter settings</string>
+
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Alive</item>
+        <item>Deceased</item>
+        <item>Presumed dead</item>
+    </string-array>
+    <string-array name="filter_values">
+        <item>All</item>
+        <item>Alive</item>
+        <item>Deceased</item>
+        <item>Presumed dead</item>
+    </string-array>
+</resources>

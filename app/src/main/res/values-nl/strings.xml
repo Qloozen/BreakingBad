@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breaking Bad</string>
+    <string name ="app_settings">Instellingen</string>
+    <string name ="app_details">Details</string>
+    <string name="property_status">"Status:  "</string>
+    <string name="property_nickname">"Bijnaam:  "</string>
+    <string name="property_birthday">"Geboortedatum:  "</string>
+    <string name="property_appearance">"Speelt in seizoen(en):  "</string>
+    <string name="property_occupation">"Beroep (bezigheden):  "</string>
+    <string name="property_quotes">"Citaten:  "</string>
+    <string name="pref_key">PreferenceKey</string>
+    <string name="pref_def">All</string>
+    <string name="pref_title">Filter status</string>
+    <string name="pref_subtTtitle">Verander de filter status</string>
+
+    <string-array name="filter_options">
+        <item>Alle</item>
+        <item>Levend</item>
+        <item>Overleden</item>
+        <item>Waarschijnlijk overleden</item>
+    </string-array>
+    <string-array name="filter_values">
+        <item>All</item>
+        <item>Alive</item>
+        <item>Deceased</item>
+        <item>Presumed dead</item>
+    </string-array>
+
+</resources>
